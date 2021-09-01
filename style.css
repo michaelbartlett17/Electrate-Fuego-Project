@@ -122,7 +122,11 @@ this css. element centers text elements*/
 }
 }
 
-
+.center-iframe {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
     
 
 
